@@ -1,5 +1,5 @@
 body#home {
-	background-image: url("assets/images/background2.jpg");
+	background-image: url("../images/background.jpg");
 	background-size: cover; 
 	background-position: center center; 
 	position: relative;
@@ -127,7 +127,7 @@ h6 {
 
 
 body#bio {
-	background-image: url("assets/images/bioportfolio.jpg");
+	background-image: url("../images/biobackground.jpg");
 	background-size: cover; 
 	background-position: center center; 
 	position: relative;
