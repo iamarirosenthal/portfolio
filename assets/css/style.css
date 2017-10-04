@@ -1,5 +1,5 @@
 body#home {
-	background-image: url("../images/background.jpg");
+	background-image: url("../images/background.JPG");
 	background-size: cover; 
 	background-position: center center; 
 	position: relative;
@@ -85,6 +85,7 @@ nav ul li a {
 	margin: 0 auto;
 	margin-top: 200px; 
 	margin-bottom: 200px;
+	left: 20%; 
 
 	/*margin top: 200px;*/
 	/*margin bottom: 50px;*/
@@ -127,7 +128,7 @@ h6 {
 
 
 body#bio {
-	background-image: url("../images/biobackground.jpg");
+	background-image: url("../images/biobackground.JPG");
 	background-size: cover; 
 	background-position: center center; 
 	position: relative;
