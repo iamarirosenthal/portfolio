@@ -1,22 +1,22 @@
 body#home {
 	background-image: url("../images/background.JPG");
-	background-size: cover; 
-	background-position: center center; 
+	background-size: cover;
+	background-position: center center;
 	position: relative;
-	top: 0; 
+	top: 0;
 	bottom: 0;
 	height: 100vh;
-	z-index: -10; 
-	background-color: black; 
+	z-index: -10;
+	background-color: black;
 }
 
 #hero-overlay {
-	position: absolute; 
-	top: 0; 
+	position: absolute;
+	top: 0;
 	bottom: 0;
 	height: 100%;
 	width: 100%;
-	z-index: -5; 
+	z-index: -5;
 	background-color: rgba(0,0,0,0.3);
 }
 
@@ -27,39 +27,39 @@ body#home {
 }
 
 #name-div {
-	color: white; 
+	color: white;
 }
 #name-header {
 	font-family: 'Raleway', sans-serif;
-	color: #E6E4E4; 
+	color: #E6E4E4;
 }
 
 #artist-header {
 
-	color: #E6E4E4; 
+	color: #E6E4E4;
 }
 .line-break {
-	width: 300px; 
+	width: 300px;
 	border-top: 1px solid;
 }
 
 * {
-	margin: 0; 
-	padding: 0; 
-	font-family: 'Raleway', sans-serif; 
+	margin: 0;
+	padding: 0;
+	font-family: 'Raleway', sans-serif;
 
 }
 
 nav {
-	width: 25%; 
-	height: 80px; 
-	background-color: #000; 
-	opacity: 0.4; 
+	width: 25%;
+	height: 80px;
+	background-color: #000;
+	opacity: 0.4;
 	min-width:300px;
 
 }
 nav ul li {
-	list-style-type: none; 
+	list-style-type: none;
 	display: inline-block;
 	line-height: 75px;
 
@@ -70,24 +70,24 @@ nav ul {
 	/*margin: right: 30px;*/
 }
 nav ul li a {
-	text-decoration: none; 
+	text-decoration: none;
 	color: #FFFFFF;
 	padding: 30px;
 }
 
 /*This is code for the bio page*/
 .prof-box {
-	width: 400px; 
-	height: 400px; 
+	width: 400px;
+	height: 400px;
 	background: rgba(0, 0, 0, 0.4);
 	padding: 40px;
 	color: white;
 	/*margin: 0 auto;*/
-	margin-top: 200px; 
+	margin-top: 200px;
 	margin-bottom: 200px;
-	margin-left: 600px; 
-	
-	left: 20%; 
+	margin-left: 600px;
+
+	left: 20%;
 
 	/*margin top: 200px;*/
 	/*margin bottom: 50px;*/
@@ -98,8 +98,8 @@ nav ul li a {
 }
 
 h1 {
-	font-weight: 100; 
-	letter-spacing: 6; 
+	font-weight: 100;
+	letter-spacing: 6;
 	font-size: 40px;
 }
 
@@ -111,50 +111,50 @@ h5 {
 
 h6 {
 	font-weight: 100;
-	letter-spacing: 6; 
+	letter-spacing: 6;
 }
 
 #interests {
-	font-weight: 100; 
+	font-weight: 100;
 }
 
 .prof-pic {
-  
-  border-radius: 50%; 
-  height: 200px;
-  width: 200px;   
+
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
 
 
 
 }
 
 .social-icons {
-	font-size: 28px; 
+	font-size: 28px;
 }
 
 
 body#bio {
 	background-image: url("../images/biobackground.JPG");
-	background-size: cover; 
-	background-position: center center; 
+	background-size: cover;
+	background-position: center center;
 	position: relative;
-	top: 0; 
+	top: 0;
 	bottom: 0;
 	height: 100vh;
-	z-index: -10; 
-	background-color: black; 
+	z-index: -10;
+	background-color: black;
 
 }
 
 .quote {
-	position: absolute; 
+	position: absolute;
 	top: 89px;
 	right: 20px;
-	
+
 
 }
 #quoteAdams {
 	font-family: 'Saira Extra Condensed', sans-serif;
-	font-size: 120%; 
-	opacity: 0.7; 
+	font-size: 120%;
+	opacity: 0.7;
 }
