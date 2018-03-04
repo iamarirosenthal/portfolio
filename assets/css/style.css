@@ -58,6 +58,12 @@ nav {
 	min-width:300px;
 
 }
+
+@media only screen and (max-width: 640px){
+	.nav {
+		position: 	aboslute;
+	}
+}
 nav ul li {
 	list-style-type: none;
 	display: inline-block;
@@ -120,9 +126,9 @@ h6 {
 
 .prof-pic {
 
-  border-radius: 50%;
-  height: 200px;
-  width: 200px;
+  border-radius: 75%;
+  height: 175px;
+  width: 125px;
 
 
 
@@ -161,7 +167,11 @@ body#bio {
 
 /*portfolio page*/
 
-
+ #portfolio {
+	top: 500px;
+	left: 500px;
+	position: 	absolute;
+}
 
 
 /*photography page*/
